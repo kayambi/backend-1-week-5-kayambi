@@ -19,7 +19,7 @@ def  first_word input
        input.split(" ")[0]
 end
 
-def titleize input 
+def titleize input  
 
     array  = input.split(" ")
     count = 0 
